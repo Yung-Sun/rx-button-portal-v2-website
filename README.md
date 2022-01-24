@@ -1,3 +1,3 @@
 # rx-button-portal-v2-website
 
-Here is rx-button portal !
+这里是学习Canvas后制作的小组件rx-button的文档！
